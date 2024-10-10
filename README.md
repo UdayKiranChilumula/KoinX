@@ -15,4 +15,4 @@ This Node.js server-side application fetches cryptocurrency data (Bitcoin, Matic
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd cryptocurrency-assignment
+   cd KoinX
