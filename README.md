@@ -15,7 +15,7 @@ This Node.js server-side application fetches cryptocurrency data (Bitcoin, Matic
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd KoinX
+   cd api
    ```
 ## Install dependencies:
    ```bash
